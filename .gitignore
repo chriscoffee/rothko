@@ -1,7 +1,4 @@
+_site
 .sass-cache
-style.css
-style.css.map
-
-node_modules
-
+.jekyll-metadata
 .DS_Store
