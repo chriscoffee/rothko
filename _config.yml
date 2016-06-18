@@ -10,7 +10,7 @@ title: Rothko Me
 description: The Sass experiment that Mark Rothko dreamt of
 baseurl: "" # the subpath of your site, e.g. /blog
 keywords: rothko, interactive, art, swag, sass, colour field, color field, abstract expressionism
-url: "http://rothko.me" # the base hostname & protocol for your site
+url: "https://chriscoffee.github.io/rothko" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
